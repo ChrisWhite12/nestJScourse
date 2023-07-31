@@ -1,0 +1,16 @@
+Host
+    ec2-34-202-127-5.compute-1.amazonaws.com
+Database
+    dcqckjkvdcogq1
+User
+    nbdatcwbccsdtp
+Port
+    5432
+Password
+    503466eaee2168e370a4b708ae15600b982ba87042ce1d0272b558114938f0c4
+URI
+    postgres://nbdatcwbccsdtp:503466eaee2168e370a4b708ae15600b982ba87042ce1d0272b558114938f0c4@ec2-34-202-127-5.compute-1.amazonaws.com:5432/dcqckjkvdcogq1
+Heroku CLI
+    heroku pg:psql postgresql-parallel-11176 --app chrisw-nest-tutorial
+    
+    npx prisma studio
